@@ -13,7 +13,7 @@ HW3: 97/100 -> stupid error, in 2d, the cluster should be set to 4, not 3
 
 HW4: 108/140 (graded out of 100, 40 bonus points available) -> lost 2 points in 1f, "Images are not similar"
 
-HW5: 100/100 -> 
+HW5: 100/100 
 
 HW6: No submission
 
