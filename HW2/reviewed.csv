@@ -1,0 +1,11 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+20982,34071681,City King,257995608,Arlo SoHo,Manhattan,SoHo,40.7244,-74.00794,Hotel room,142,1,1009,2021-09-07,94.89,11,190,534,
+20366,32678719,Enjoy great views of the City!,244361589,Row NYC,Manhattan,Theater District,40.75876,-73.98846,Hotel room,164,1,798,2021-10-17,26.11,9,351,52,
+20993,34072045,King Room City,259169672,Arlo NoMad,Manhattan,Midtown,40.74623,-73.98499,Hotel room,169,1,738,2021-10-11,34.43,11,363,366,
+22645,37122502,Amazing Micro Unit W/ communal rooftop and kitchen,266755066,The Ridge,Manhattan,East Village,40.7238,-73.99038,Private room,190,1,698,2021-11-03,63.84,4,362,602,
+10822,15262831,THE PRIVACY DEN ~ 5 MINUTES TO JFK,97086824,Miss Dy,Queens,Jamaica,40.66946,-73.76679,Entire home/apt,57,1,670,2021-10-27,10.91,1,64,89,
+27864,44799007,Sonder | Battery Park | Studio Apartment,219517861,Sonder (NYC),Manhattan,Financial District,40.70617,-74.01486,Entire home/apt,242,2,657,2021-10-20,61.02,49,283,620,
+9056,12502633,Entire New Apartment in Park Slope / Gowanus,379619,J. E,Brooklyn,Gowanus,40.66714,-73.99411,Private room,111,1,655,2021-11-01,9.96,1,62,104,
+32015,49440252,Hudson River View King Bed at Higher Floor,397872858,M,Manhattan,Theater District,40.7619,-73.98454,Private room,245,1,624,2021-10-30,125.64,12,353,624,
+2991,3798941,Williamsburg Penthouse Guestroom,6642777,Martin,Brooklyn,Williamsburg,40.71133,-73.95358,Private room,86,1,603,2021-10-27,7.2,2,58,114,
+1409,1217318,Williamsburg Penthouse Hideaway,6642777,Martin,Brooklyn,Williamsburg,40.71165,-73.95236,Private room,86,1,596,2021-10-21,7.11,2,100,112,
